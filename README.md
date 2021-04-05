@@ -10,4 +10,4 @@ Game is permanently making itself faster, velocity value is determined in "Playe
 
 
 P.S
-Has a very small bug/glitch: after you changed speed of player with the slider, click on game itself, to uncheck the slider, or you will be moving slider up and down, instead of moving the player
+Game has a very small bug/glitch: after you changed speed of player with the slider, click on game itself, to uncheck the slider, or you will be moving slider up and down, instead of moving the player
