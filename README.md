@@ -2,7 +2,7 @@
 job test game 
 
 
-Controls: Left ot Right arrow keys, of A and D. Spacebar is for jump.
+Controls: Left ot Right arrow keys, or traditional A and D. Spacebar is for jump.
 
 Game is permanently making itself faster, velocity value is determined in "Player script" block in editor.
 
